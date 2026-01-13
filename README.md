@@ -1,45 +1,84 @@
-I’m Hassan Ali, a Full Stack Web Developer with 3+ years of experience building fast, secure, and scalable websites, web applications, and AI-driven solutions. My core expertise includes Core PHP, Laravel, and the MERN stack (MongoDB, Express.js, React.js, Node.js), allowing me to craft custom-coded, feature-rich platforms beyond the limitations of pre-built systems.
+I am a Full Stack Web Developer with over three years of professional experience building fast, secure, and scalable web applications, SaaS platforms, and AI-based business solutions. I focus on writing clean, maintainable code and developing systems that solve real business problems while delivering strong performance and reliability.
 
-Recently, I’ve specialized in AI automation using n8n, OpenAI, and API integrations, helping businesses streamline workflows, automate repetitive tasks, and save time through AI-powered agents and intelligent systems. These solutions reduce manual effort, improve productivity, and create a strong foundation for scalable automation.
+AI Automation and Agentic Systems
 
-I’ve worked with clients across various industries, delivering solutions that meet functional needs while ensuring high performance, security, and a great user experience. My approach combines clean, optimized code with a strong understanding of real-world business goals.
+Artificial Intelligence and automation are a core part of my current work. I design and implement AI-powered automation systems using tools such as n8n, Make.com, OpenAI, VAPI AI, and custom API integrations. These systems help businesses automate workflows, including email marketing, lead management, internal operations, and customer support, thereby reducing manual effort and improving efficiency.
 
-Core Skills
+I also build AI agents tailored to business needs, enabling intelligent decision-making, real-time responses, and scalable automation across different processes.
 
-AI Automation: n8n workflows, AI agents, OpenAI integrations, custom API automation
+Technical Expertise
+Backend
 
-Backend: Core PHP, Laravel, Node.js, Express.js
+Core PHP and Laravel
 
-Frontend: React.js, Next.js, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS
+Node.js and Express.js
 
-Databases: MySQL, MongoDB
+REST APIs and third-party integrations
 
-CMS & E-commerce: WordPress (themes/plugins), WooCommerce, Shopify
+Frontend
 
-Other Skills: SEO, speed optimization (95%+ PageSpeed), DNS & hosting management, performance audits
+React.js and Next.js
 
-Why Work With Me
+JavaScript, HTML, CSS
 
-Proven expertise in custom development & AI automation
+Bootstrap and Tailwind CSS
 
-Ability to design scalable and maintainable solutions
+Responsive UI and SaaS dashboards
 
-Problem-solving mindset with quick bug fixes
+Databases
 
-Transparent communication and end-to-end project delivery
+PostgreSQL
 
-Recent Work
+MySQL
 
-AI-driven workflows using n8n for real-time process automation.
+MongoDB
 
-PHP-based portals with booking systems, analytics dashboards, and user management.
+SaaS and Systems
 
-MERN/NextJS website platforms.
+Accounting systems
 
-Shopify and WooCommerce stores with custom features and speed optimization.
+Logistics and inventory platforms
 
-Rescue and recovery projects for broken or hacked websites.
+Email marketing systems
 
-My focus is to deliver performance-driven, user-centric, and future-ready solutions — whether it’s a custom AI agent, a Laravel application, or an optimized e-commerce store.
+Custom admin and analytics dashboards
 
-Let’s collaborate to bring your vision to life and build smart, scalable systems that grow with your business.
+CMS and e-commerce
+
+WordPress with Elementor
+
+Custom themes and plugin development
+
+WooCommerce customization
+
+Shopify store development and custom Shopify code solutions
+
+Payments and Infrastructure
+
+Local and international payment gateway integrations
+
+Website performance optimization
+
+Hosting, DNS, and deployment management
+
+Experience
+
+I have worked with clients across multiple industries and have handled several long-term projects ranging from six months to over a year. These projects involved continuous development, feature enhancements, performance optimization, bug fixing, and long-term system maintenance. This experience has allowed me to deeply understand business workflows and build scalable, production-ready solutions.
+
+Recent Work Highlights
+
+AI-based automation workflows built with n8n for real-time business processes
+
+Laravel-based portals with dashboards, analytics, and user management
+
+MERN stack SaaS applications handling large-scale data and active users
+
+WordPress and WooCommerce platforms are optimized for speed and scalability.
+
+Shopify stores with custom features and performance-focused improvements
+
+Focus
+
+My goal is to build performance-driven, user-focused, and future-ready systems. Whether it is an AI automation solution, a custom SaaS platform, or an optimized e-commerce store, I focus on long-term value, scalability, and clean architecture.
+
+I am open to collaborations, long-term projects, and meaningful work that creates real impact.
