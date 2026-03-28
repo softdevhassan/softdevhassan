@@ -114,7 +114,7 @@ const hassan = {
 | **Restaurant Management System** | Multi-tenant RBAC system with Admin, Manager, Waiter & Chef portals | Laravel, MySQL | Private |
 | **AI Automation System** | Competitor ads analysis + appointment calling — n8n, Make.com, OpenAI | n8n, OpenAI API, VAPI AI | Private |
 | **ScanSoles Frontend** | Swiss AI health-tech startup — orthotics platform for international B2B market | Next.js | [scansoles.com](https://scansoles.com) |
-| **NERAI — NLP Research Platform** | Comparative NER: CRF (90.32% F1) vs spaCy neural — trained on CoNLL2003 | Python, Flask, AWS EC2 | [ner.orbin.dev](https://ner.orbin.dev) |
+| **Entify — NLP Research Platform** | Comparative NER: CRF (90.32% F1) vs spaCy neural — trained on CoNLL2003 | Python, Flask, AWS EC2 | [entify.orbin.dev](https://entify.orbin.dev) |
 | **Bottleneck Agency** | Full WordPress website for a digital marketing agency | WordPress, Elementor | [onbottleneck.com](https://onbottleneck.com) |
 | **Repave Ltd** | Local SEO-focused multi-service site for UK paving company | WordPress | [repave.co.uk](https://repave.co.uk) |
 
